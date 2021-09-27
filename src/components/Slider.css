@@ -1,0 +1,49 @@
+.slider {
+  margin: 5% 10%;
+}
+
+.slider-title {
+  font-size: 6em;
+  margin: 0;
+  font-weight: bold;
+}
+
+.slider_img {
+  height: 70vh;
+  width: 90%;
+  display: flex;
+  align-items: end;
+  justify-content: start;
+  color: white;
+  border-radius: 15px;
+  padding-left: 4%;
+  margin-left: 4%;
+}
+
+.slider_btn {
+  display: flex;
+  align-items: center;
+  width: 15%;
+  justify-content: space-between;
+}
+
+.section_4_span {
+  font-weight: 300;
+  font-style: italic;
+}
+
+.section_4_p {
+  font-size: 2.2em;
+  font-style: italic;
+}
+
+#img_btn {
+  margin-top: 10px;
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}

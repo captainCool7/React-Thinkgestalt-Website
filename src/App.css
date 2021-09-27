@@ -1,0 +1,101 @@
+.Section_1 {
+  height: 95vh;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Hero_text {
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.HeroScroll {
+  text-align: center;
+}
+
+.HeroScroll img {
+  height: 30px;
+}
+
+.Section_3 {
+  width: 90%;
+  padding-left: 10%;
+}
+.divide_section {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.section_left {
+  flex: 0.5;
+}
+
+.section_right {
+  flex: 0.5;
+  display: flex;
+  justify-content: right;
+  height: 100%;
+}
+.section_right img {
+  width: 90%;
+}
+
+.Slide {
+  margin: 0 10%;
+}
+
+.subSections {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+}
+
+.slide_p_Text {
+  font-size: 1.4em;
+  width: 65%;
+}
+
+.Section_3_head {
+  font-size: 6vw;
+  font-style: italic;
+}
+
+.section_4_p {
+  font-size: 1.5em;
+}
+
+#slide1_Text {
+  flex: 0.4;
+  font-size: 9em;
+  font-weight: 500;
+}
+
+#slide1_img {
+  flex: 0.6;
+  display: flex;
+  justify-content: right;
+}
+
+#slide1_Text--light {
+  font-weight: 300;
+  font-style: italic;
+}
+
+#lightText {
+  font-style: italic;
+  font-weight: 200;
+  font-size: 5em;
+  margin: 0;
+}
+
+#boldText {
+  font-weight: 600;
+  font-size: 7em;
+  margin: 0;
+}

@@ -1,0 +1,43 @@
+.webapp {
+  background-color: black;
+  color: white;
+  padding: 5%;
+}
+
+.webapp_section_1 #text--b {
+  font-size: 8vw;
+  font-weight: 600;
+}
+
+.webapp_section_1 #text--i {
+  margin: 0;
+  font-size: 8vw;
+  font-style: italic;
+  color: #04db86;
+  font-weight: 300;
+}
+.webapp_subtext-1 {
+  width: 75%;
+  font-size: 1.7em;
+}
+
+.webapp_subtext-2 {
+  width: 50%;
+  margin-left: 50%;
+  font-size: 1.7em;
+  font-weight: 200;
+}
+
+.webapp_section_1 hr {
+  margin-bottom: 20px;
+}
+
+.webapp_section_2 .webapp_s2_hero {
+  display: flex;
+  justify-content: center;
+}
+
+.webapp_nextBtn {
+  display: flex;
+  justify-content: right;
+}

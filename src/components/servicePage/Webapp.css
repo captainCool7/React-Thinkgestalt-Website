@@ -1,0 +1,9 @@
+.webapp_section_2 .webapp_s2_hero {
+  display: flex;
+  justify-content: center;
+}
+
+.webapp_nextBtn {
+  display: flex;
+  justify-content: right;
+}
